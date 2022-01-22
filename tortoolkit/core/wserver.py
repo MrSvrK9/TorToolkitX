@@ -343,7 +343,7 @@ code_page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent Code Checker</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg"> 
+    <link rel="icon" href="https://telegra.ph/file/6fcb00bdfff248ec1eb6f.jpg" type="image/jpg"> 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
